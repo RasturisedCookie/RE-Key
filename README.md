@@ -29,7 +29,7 @@ If you just want to use the app, grab the latest standalone `.exe` from the [Rel
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/RE-Key.git
+   git clone https://github.com/RasterizedCookie/RE-Key.git
    cd RE-Key
    ```
 
